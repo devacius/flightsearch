@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-TWILIO_SID = " "
-TWILIO_AUTH_TOKEN = ""
+TWILIO_SID = 
+TWILIO_AUTH_TOKEN = 
 TWILIO_VIRTUAL_NUMBER = 
 TWILIO_VERIFIED_NUMBER = 
 
